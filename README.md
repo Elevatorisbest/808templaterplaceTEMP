@@ -4,4 +4,4 @@ This was a temporary template for placing 808 on r/place near Steins;gate on 22.
 
 Use https://github.com/Elevatorisbest/hifirush808rplace instead. It works and will be kept up to date.
 
-# This template is ***TEMPORARY*** and ***WILL NOT BE MAINTAINED, INCLUDING COORDINATES***, for reasons listed above.
+# This template was ***TEMPORARY*** and ***WILL NOT BE MAINTAINED, INCLUDING COORDINATES***, for reasons listed above.
